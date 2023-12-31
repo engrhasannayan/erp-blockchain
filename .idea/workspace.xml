@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86f9dd5b-86e2-4809-a93c-57fdd4ab7706" name="Changes" comment="" />
+    <list default="true" id="86f9dd5b-86e2-4809-a93c-57fdd4ab7706" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +80,7 @@
       <workItem from="1705225285301" duration="599000" />
       <workItem from="1710046740566" duration="191000" />
       <workItem from="1717331128206" duration="747000" />
-      <workItem from="1717661270806" duration="1117000" />
+      <workItem from="1717661270806" duration="1990000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1717661455741</created>
@@ -108,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717661888375</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="sdfs">
+      <created>1717662779935</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717662779935</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
     <MESSAGE value="hellos" />
-    <option name="LAST_COMMIT_MESSAGE" value="hellos" />
+    <MESSAGE value="sdfs" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdfs" />
   </component>
 </project>
