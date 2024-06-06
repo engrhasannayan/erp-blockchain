@@ -46,6 +46,8 @@ public class Hello {
         return returnStr;
     }
 
+
+
     public static void main(String[] args) {
         String[] s = {"flower","flow","flight"};
         System.out.println(longestCommonPrefix(s));
